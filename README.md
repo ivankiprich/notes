@@ -1,2 +1,2 @@
 # notes
-Some dev notice
+Some dev notes
